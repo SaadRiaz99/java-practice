@@ -23,3 +23,7 @@ if (age >= 18 ){
 else{
     console.log("Beta abhi to chota hai ")
 }
+// ese bhi likh sakete haion
+const  num  = () =>{
+    console.log("Saad")
+}
